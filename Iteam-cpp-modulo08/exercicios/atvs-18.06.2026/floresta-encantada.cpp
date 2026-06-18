@@ -2,7 +2,7 @@
 // Aula: 18/06/2026
 // Disciplina: Linguagem de Programacao C++ — Modulo 08
 // Professora: Erika Dilliany Gaya Rabelo dos Santos
-// Aluno: Kelvin Dilli
+// Aluno: Ryan Kayky Marques Rolins
 // Desafio: Na Floresta Encantada — Arvore Binaria de Personagens
 // ===============================================================
 

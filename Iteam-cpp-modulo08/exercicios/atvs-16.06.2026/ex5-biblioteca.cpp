@@ -2,7 +2,7 @@
 // Aula: 16/06/2026
 // Disciplina: Linguagem de Programacao C++ — Modulo 08
 // Professora: Erika Dilliany Gaya Rabelo dos Santos
-// Aluno: Kelvin Araújo Ferreira
+// Aluno:  Ryan Kayky Marques Rolins
 // Exercicio 2: Classe Biblioteca com lista de livros encapsulada
 // ===============================================================
 
